@@ -15,3 +15,21 @@
 创建本地仓库 <br>
 *git config --list* 查看git的配置文件<br>
 
+## 表格
+名称|技能|排行
+--|:--:|--:
+蝙蝠侠|钱|12
+蜘蛛侠|新闻|123
+
+## 代码片段
+```cpp
+	#inlcude <iostream>
+	using namespace std;
+	int main()
+	{
+		printf("rec");
+		return 0;
+	}
+```
+
+这是一个`重点标记`的文本。
