@@ -31,5 +31,9 @@
 		return 0;
 	}
 ```
-
+```python
+	rcscrsc
+	srcsefrsc
+	eadeccer
+```
 这是一个`重点标记`的文本。
